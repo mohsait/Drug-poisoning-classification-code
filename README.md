@@ -8,7 +8,6 @@ R code and analytic files for the grouped binomial mixed-effects model and funne
 - `Table3 model.xlsx`: combined analytic file used for the mixed-effects model.
   - Sheet name: `Model Data`
 - `Figure2_funnel_plots_main.R`: generates the main-manuscript funnel plots for Figure 2 for 2007–2012, 2013–2018, and 2019–2024.
-- `FigureS1_funnel_plots_supplementary.R`: generates the fully labeled supplementary funnel plots for Supplementary Figure S1 for the same three periods.
 - `funnel plot data.xlsx`: cleaned input file used for the funnel-plot analyses.
   - Sheet name: `Funnel_R_Input`
 
